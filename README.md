@@ -2,10 +2,10 @@
 
 This is a simple website project created for DevOps assignment to demonstrate Git version control.
 
-Pages
+Pages:
 - index.html (Home Page)
 - about.html (About Page)
 - contact.html (Contact Page)
 
-Purpose
+Purpose:
 This project showcases basic Git operations including repository creation, committing changes, and pushing to GitHub.
