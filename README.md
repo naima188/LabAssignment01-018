@@ -1,6 +1,6 @@
 # LabAssignment01-018
 
-This is a simple website project created for DevOps assignment to demonstrate Git version control.
+This is a simple website project created for DevOps assignment.
 
 Pages:
 - index.html (Home Page)
